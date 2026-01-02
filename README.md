@@ -1,4 +1,5 @@
-<div style="background:linear-gradient(180deg,#fff5f7,#ffffff); padding:25px; border-radius:18px;">
+<div style="background-color:#fff0f5; padding:30px; border-radius:20px;">
+
 
 <div align="center">
 
