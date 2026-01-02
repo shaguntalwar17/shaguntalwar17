@@ -1,4 +1,6 @@
-<img width="1465" height="770" alt="image" src="https://github.com/user-attachments/assets/ddc58a16-f6d6-421c-93a8-be47fe975b02" /><div align="center">
+<div style="background:linear-gradient(180deg,#fff5f7,#ffffff); padding:25px; border-radius:18px;">
+
+<div align="center">
 
 <h1>🌸 Hi 👋, I'm Shagun Talwar</h1>
 
@@ -11,7 +13,6 @@
 <hr width="60%"/>
 
 </div>
-
 
 <div style="background-color:#fff5f7; padding:15px; border-radius:12px;">
 
@@ -26,6 +27,8 @@
 
 </div>
 
+<br>
+
 <div style="background-color:#f3f4ff; padding:18px; border-left:6px solid #8e99f3; border-radius:10px;">
 
 <h3>🌈 My Learning Philosophy</h3>
@@ -35,7 +38,8 @@
 </i>
 
 </div>
- 
+
+<br>
 
 <div align="center">
 
@@ -54,9 +58,46 @@
 
 <hr>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8E99F3&center=true&vCenter=true&width=600&lines=Data+to+Decisions;Learning+by+Building;Consistency+%7C+Curiosity+%7C+Impact" />
+</div>
+
+<br>
+
+<div style="background-color:#f9f9ff; padding:20px; border-radius:14px;">
+
 <h2 align="center">💻 Tech Skills</h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
@@ -70,13 +111,17 @@
 ![OOPs](https://img.shields.io/badge/OOPs-455A64?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-546E7A?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-37474F?style=for-the-badge)
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-263238?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-263238?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
+
+</div>
 
 <hr>
 
 <h2 align="center">🧠 Soft Skills</h2>
+
+<div align="center">
 
 ![Leadership](https://img.shields.io/badge/Leadership-5E35B1?style=for-the-badge)
 ![Public Speaking](https://img.shields.io/badge/Public%20Speaking-9C27B0?style=for-the-badge)
@@ -107,6 +152,9 @@
 ![Management Skills](https://img.shields.io/badge/Management%20Skills-2E7D32?style=for-the-badge)
 ![Perfection Oriented](https://img.shields.io/badge/Perfection%20Oriented-4A148C?style=for-the-badge)
 
+</div>
+
+</div>
 
 <hr>
 
@@ -114,14 +162,21 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=shaguntalwar17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shaguntalwar17&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaguntalwar17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shaguntalwar17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" /> -->
+<br><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=shaguntalwar17&theme=rose_pine&hide_border=false" />
+<br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaguntalwar17&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> -->
+
+</div>
+
+<br>
 
 <div style="background-color:#f7fff7; padding:15px; border-radius:12px;">
 
@@ -133,13 +188,13 @@
 
 </div>
 
-
-
 <hr>
 
 <div align="center">
 
 <b>If my work doesn’t create change, I’m not done yet.</b><br>
 ⭐ If something here helps you — feel free to star or connect 🙂
+
+</div>
 
 </div>
