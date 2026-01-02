@@ -15,7 +15,7 @@
 
 </div>
 
-<div style="background-color:#fff5f7; padding:15px; border-radius:12px;">
+<div style="background-color:#ffffff; padding:18px; border-radius:14px;">
 
 <h2>✨ About Me</h2>
 
@@ -30,7 +30,8 @@
 
 <br>
 
-<div style="background-color:#f3f4ff; padding:18px; border-left:6px solid #8e99f3; border-radius:10px;">
+<div style="background-color:#f3f4ff; padding:18px; border-left:6px solid #f48fb1; border-radius:12px;">
+
 
 <h3>🌈 My Learning Philosophy</h3>
 
@@ -42,7 +43,8 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="background-color:#ffffff; padding:18px; border-radius:14px;">
+
 
 <h2>🌐 Let’s Connect</h2>
 <p><b>✨ Open to learning, collaboration & growth opportunities</b></p>
@@ -65,7 +67,8 @@
 
 <br>
 
-<div style="background-color:#f9f9ff; padding:20px; border-radius:14px;">
+<div style="background-color:#ffffff; padding:22px; border-radius:16px;">
+
 
 <h2 align="center">💻 Tech Skills</h2>
 
@@ -121,8 +124,9 @@
 <hr>
 
 <h2 align="center">🧠 Soft Skills</h2>
+<div align="center style="background-color:#ffffff; padding:22px; border-radius:16px;">
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ![Leadership](https://img.shields.io/badge/Leadership-5E35B1?style=for-the-badge)
 ![Public Speaking](https://img.shields.io/badge/Public%20Speaking-9C27B0?style=for-the-badge)
