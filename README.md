@@ -49,7 +49,7 @@
 <h2>🌐 Let’s Connect</h2>
 <p><b>✨ Open to learning, collaboration & growth opportunities</b></p>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/shagun-talwar">
+<a href="www.linkedin.com/in/shagun-talwar">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
