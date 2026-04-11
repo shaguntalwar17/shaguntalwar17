@@ -186,11 +186,11 @@
 
 <div style="background-color:#f7fff7; padding:15px; border-radius:12px;">
 
-<h2>📌 Featured Projects</h2>
+<!-- <h2>📌 Featured Projects</h2>
 
 • Unheard Voices – Data analytics on crimes against women  
 • Yamuna Canal Rejuvenation – Water quality analytics (Power BI)  
-• Global Firepower 2025 – Strategic data analytics  
+• Global Firepower 2025 – Strategic data analytics   -->
 
 </div>
 
